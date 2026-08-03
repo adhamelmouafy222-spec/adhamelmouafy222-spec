@@ -2,9 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # يشتغل كل 6 ساعات تلقائيًا
-  workflow_dispatch:         # وممكن تشغله يدوي من تاب Actions
-
+    - cron: "0 */6 * * *"
+  workflow_dispatch:       
 permissions:
   contents: write
 
