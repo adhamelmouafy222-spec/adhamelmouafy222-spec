@@ -1,191 +1,114 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=3500&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=45&lines=AI+Developer;Embedded+Systems+Engineer;ESP32+%26+IoT;Building+Smart+Production+Line"
-alt="Typing SVG"/>
+<img src="./profile.png" width="150" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 25px #00ff41;" alt="DOMZ"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Building_Smart_Production_Line-00ff88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_&_Embedded_Systems-00cc66?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/BASED_IN-Alexandria,_Egypt-0D1117?style=for-the-badge&labelColor=00ff88"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=DOMZ;IT+Student+%40+Borg+El+Arab;Full-Stack+%26+Backend+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+Node.js" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Alexandria,_Egypt-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+<img src="https://img.shields.io/badge/🎓_IT_Student-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+<img src="https://img.shields.io/badge/💻_Web_Development-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" style="filter: hue-rotate(90deg);"/>
+
+## 🟢 About Me
+
+```yaml
+Name:      DOMZ (Adham Youssef)
+Location:  Alexandria, Egypt
+Education: IT Student @ Borg El Arab University
+Role:      Software Developer | Web Development
+Focus:     Backend Systems, Problem Solving, Full-Stack Projects
+```
+
+- 🎓 IT Student at **Borg El Arab University**
+- 💻 Passionate about **Web Development** and **Backend Systems**
+- 🌱 Currently sharpening my skills in **C, C++, Python & Node.js**
+- ⚡ I like breaking problems down and building clean, working solutions
+- 📫 Open to collaboration — let's connect and build something together
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,c,cpp,nodejs,python,git,github,vscode&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+## 📊 Live Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adhamelmouafy222-spec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=adhamelmouafy222-spec&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" height="165" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamelmouafy222-spec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhamelmouafy222-spec/adhamelmouafy222-spec/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhamelmouafy222-spec/adhamelmouafy222-spec/output/github-contribution-grid-snake.svg" />
+  <img alt="green neon contribution snake" src="https://raw.githubusercontent.com/adhamelmouafy222-spec/adhamelmouafy222-spec/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔹 **Library Management System** | Console-based system to manage book inventory, borrowing, and returns with persistent file storage | `C++` |
+| 🔹 **Task Automation Toolkit** | Collection of Python scripts to automate repetitive file handling, data cleanup, and reporting tasks | `Python` |
+| 🔹 **REST API Server** | Backend service built with Express handling authentication, routing, and CRUD operations | `Node.js` |
+
+</div>
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adham-youssef-298633419/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=001a0d"/>
+</a>
+<a href="https://github.com/adhamelmouafy222-spec" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=001a0d"/>
+</a>
+<a href="https://www.facebook.com/adham.youssef.766084/" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00FF41&labelColor=000000&color=001a0d"/>
+</a>
 
 <br/><br/>
 
-<a href="#-about-me">About</a> ·
-<a href="#-tech-stack">Stack</a> ·
-<a href="#-featured-work">Projects</a> ·
-<a href="#-github-analytics">Stats</a> ·
-<a href="#-lets-connect">Contact</a>
+**Building clean, reliable software — one project at a time.**
 
 <br/>
 
-<p>
-
-<a href="mailto:adhamelmouafy222@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/adhamelmouafy222-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/adham-youssef-298633419">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=adhamelmouafy222-spec&style=for-the-badge&color=00ff88&label=Profile+Views"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-name:        Adham Youssef
-role:        AI & Embedded Systems Developer
-education:   Information Technology Student
-location:    Alexandria, Egypt
-speciality:  ESP32 • IoT • AI
-project:     Smart Production Line
-mission:     Building intelligent embedded systems.
-```
----
-
-# 🛠 Tech Stack
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"/>
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-
-<br><br>
-
-### ⚡ Embedded Systems
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode&theme=dark"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & IoT
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00FF88?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ESP32-00AA55?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/IoT-009966?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-00CC66?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Smart%20Systems-00FF88?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Work
-
-## 🏭 Smart Production Line
-
-AI-powered Smart Production Line using ESP32.
-
-### Features
-
-- ESP32 Controller
-- IR Sensors
-- DC Motors
-- Automation
-- AI Decision Making
-- Real-Time Monitoring
-
-### Technologies
-
-`ESP32`
-`Arduino`
-`C++`
-`IoT`
-`Automation`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adhamelmouafy222-spec&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=adhamelmouafy222-spec&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamelmouafy222-spec&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adhamelmouafy222-spec&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adhamelmouafy222-spec/adhamelmouafy222-spec/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:adhamelmouafy222@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/adham-youssef-298633419">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/adhamelmouafy222-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💚 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:004d2a&height=120&section=footer"/>
-
-### 🚀 Building Smart Production Line with AI, ESP32 & IoT
-
-⭐ **If you like my work, don't forget to star my repositories!**
+<img src="https://komarev.com/ghpvc/?username=adhamelmouafy222-spec&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
